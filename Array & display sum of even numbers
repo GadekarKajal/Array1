@@ -11,4 +11,6 @@ int main ()
       }
     printf("enter sum of even numbers %d",s);
     for(i=0;i<n;i++)
+     }
+}
     

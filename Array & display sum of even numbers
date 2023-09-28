@@ -1,0 +1,14 @@
+#include<stdio>
+int main ()
+{
+   int a[100],i,n,sum=0;
+   printf("enter limit")
+   scanf("%d",&n);
+   printf("enter n number");
+   for(i=0;i<n;i++)
+     {
+        scanf("%d",&a[i];
+      }
+    printf("enter sum of even numbers %d",s);
+    for(i=0;i<n;i++)
+    
